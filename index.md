@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Image of Yaktocat](https://bessobesso.github.com/images/20200819_144726.jpg)
+![Image of Yaktocat](https://github.com/bessobesso/dab-receiver/blob/gh-pages/20200819_144726.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
